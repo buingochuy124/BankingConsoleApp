@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\diem\application\bin\Debug\application.exe.config
+C:\Users\ASUS\source\repos\diem\application\bin\Debug\application.exe
+C:\Users\ASUS\source\repos\diem\application\bin\Debug\application.pdb
+C:\Users\ASUS\source\repos\diem\application\obj\Debug\BankingApplicationAssignment2.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\diem\application\obj\Debug\BankingApplicationAssignment2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\diem\application\obj\Debug\application.exe
+C:\Users\ASUS\source\repos\diem\application\obj\Debug\application.pdb
+C:\Users\ASUS\Desktop\ASM_DONE\C#\bankingapp\testgit-main\bin\Debug\application.exe.config
+C:\Users\ASUS\Desktop\ASM_DONE\C#\bankingapp\testgit-main\bin\Debug\application.exe
+C:\Users\ASUS\Desktop\ASM_DONE\C#\bankingapp\testgit-main\bin\Debug\application.pdb
+C:\Users\ASUS\Desktop\ASM_DONE\C#\bankingapp\testgit-main\obj\Debug\BankingApplicationAssignment2.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\ASM_DONE\C#\bankingapp\testgit-main\obj\Debug\BankingApplicationAssignment2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ASM_DONE\C#\bankingapp\testgit-main\obj\Debug\application.exe
+C:\Users\ASUS\Desktop\ASM_DONE\C#\bankingapp\testgit-main\obj\Debug\application.pdb

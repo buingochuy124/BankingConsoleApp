@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\diem\application\bin\Debug\application.exe.config
+C:\Users\ASUS\source\repos\diem\application\bin\Debug\application.exe
+C:\Users\ASUS\source\repos\diem\application\bin\Debug\application.pdb
+C:\Users\ASUS\source\repos\diem\application\obj\Debug\BankingApplication.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\diem\application\obj\Debug\BankingApplication.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\diem\application\obj\Debug\application.exe
+C:\Users\ASUS\source\repos\diem\application\obj\Debug\application.pdb
